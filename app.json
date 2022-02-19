@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/fhvegrywhfhewdq/bot/",
+  "website": "https://github.com/fhvegrywhfhewdq/bot",
+  "success_url": "https://t.me/Akksbot",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
